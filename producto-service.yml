@@ -1,3 +1,3 @@
 server:
-    port: ${PORT:8864}
+    port: ${PORT:8863}
         message: Configuracion de producto en el servidor levantado!
